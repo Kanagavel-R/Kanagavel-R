@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Kanagavel R 👋
 
-<!--
-**Kanagavel-R/Kanagavel-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student
+💻 Aspiring Java Developer
+🚀 Interested in Software Development & Backend Development
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** Java, C, C++
+* **Web:** HTML, CSS, JavaScript
+* **Database:** MySQL, MongoDB
+* **Framework:** Spring Boot
+* **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Java & Object-Oriented Programming
+* Spring Boot
+* Backend Development
+* SQL
+
+## 🚀 Featured Projects
+
+* **HRHub** – HR Management System
+* **Java Train Ticket Booking System** – Console-based Railway Booking System
+* **Mayura Interiors** – Responsive Luxury Interior Website
+* **Flood Shield** – Machine Learning Project
+
+## 💻 LeetCode & DSA
+
+* Solving DSA problems using Java
+* Focused on improving problem-solving and coding skills
+
+## 🔗 Connect With Me
+
+* **LinkedIn:** YOUR_LINKEDIN_LINK
+* **LeetCode:** YOUR_LEETCODE_LINK
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
