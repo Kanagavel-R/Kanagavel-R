@@ -6,9 +6,9 @@
 
 ## 🛠️ Technical Skills
 
-* **Languages:** Java, C, C++
+* **Languages:** Java
 * **Web:** HTML, CSS, JavaScript
-* **Database:** MySQL, MongoDB
+* **Database:** MySQL
 * **Framework:** Spring Boot
 * **Tools:** Git, GitHub, IntelliJ IDEA, VS Code
 
