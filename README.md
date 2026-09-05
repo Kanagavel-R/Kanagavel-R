@@ -34,8 +34,8 @@
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** YOUR_LINKEDIN_LINK
-* **LeetCode:** YOUR_LEETCODE_LINK
+* **LinkedIn:** 
+* **LeetCode:** https://leetcode.com/u/kanagavelcoder-2008/
 
 ## 📊 GitHub Stats
 
