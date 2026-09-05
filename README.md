@@ -25,7 +25,6 @@
 * **HRHub** – HR Management System
 * **Java Train Ticket Booking System** – Console-based Railway Booking System
 * **Mayura Interiors** – Responsive Luxury Interior Website
-* **Flood Shield** – Machine Learning Project
 
 ## 💻 LeetCode & DSA
 
