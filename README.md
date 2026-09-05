@@ -1,4 +1,4 @@
-# Hi, I'm Kanagavel R 👋
+hi# Hi, I'm Kanagavel R 👋
 
 🎓 B.Tech Information Technology Student
 💻 Aspiring Java Developer
@@ -22,7 +22,6 @@
 
 ## 🚀 Featured Projects
 
-* **HRHub** – HR Management System
 * **Java Train Ticket Booking System** – Console-based Railway Booking System
 * **Mayura Interiors** – Responsive Luxury Interior Website
 
