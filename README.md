@@ -1,4 +1,4 @@
-hi# Hi, I'm Kanagavel R 👋
+# Hi, I'm Kanagavel R 👋
 
 🎓 B.Tech Information Technology Student
 💻 Aspiring Java Developer
