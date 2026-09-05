@@ -34,7 +34,7 @@
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** https://www.linkedin.com/in/kanagavel-r-48b813381/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHtS%2B1MWcSmeHq4puhf7iEA%3D%3D
+* **LinkedIn:** https://www.linkedin.com/in/kanagavel-r-48b813381/?  lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHtS%2B1MWcSmeHq4puhf7iEA%3D%3D
 * **LeetCode:** https://leetcode.com/u/kanagavelcoder-2008/
 
 ## 📊 GitHub Stats
